@@ -36,7 +36,7 @@ focus on how data privacy will be handled as the online world evolves.
 transfer learning (PyTorch / ResNet-50), with work on interpreting which visual cues drive
 each style. Brings together my AI and art-history interests. *(In progress.)*
 
-**LeetCode Solutions** — my ongoing interview-prep set, with write-ups and complexity
+**LeetCode Solutions** — my ongoing interview-prep set
 analysis. *(https://github.com/elizalamarr/leetcode-solutions)*
 
 ---
