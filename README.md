@@ -16,6 +16,6 @@ I'm studying artificial intelligence at Rice University and pursuing machine lea
 | Project | What I worked on |
 | --- | --- |
 | [Income Classification Capstone](https://github.com/elizalamarr/income-classification-capstone) | Compared logistic regression and a Keras neural network on UCI Census Income data. |
-| From Scratch | Group hackathon project. |
+| [From Scratch](https://github.com/nrodriguezmendoza/from-scratch) | Team hackathon project. A crafting game with recipes linked to sources. |
 
 [LinkedIn](https://www.linkedin.com/in/elizalamar/) · [el110@rice.edu](mailto:el110@rice.edu)
