@@ -4,6 +4,8 @@ I'm studying artificial intelligence at Rice University and pursuing machine lea
 
 ## Fall AI Studio
 
+[![Fall AI Studio: Spot the Bot](https://img.shields.io/badge/Fall_AI_Studio-Spot_the_Bot-0969da)](https://github.com/Break-Through-Tech/Chewy-1A-spot-the-bot-detecting-ai-generated-text)
+
 - [Spot the Bot](https://github.com/Break-Through-Tech/Chewy-1A-spot-the-bot-detecting-ai-generated-text) — Break Through Tech team project on detecting AI-generated text.
 
 ## Currently Working On
