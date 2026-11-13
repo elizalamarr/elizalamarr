@@ -2,6 +2,10 @@
 
 I'm studying artificial intelligence at Rice University and pursuing machine learning roles. I'm interested in how to build useful models while protecting people's data.
 
+## Fall AI Studio
+
+- [Spot the Bot](https://github.com/Break-Through-Tech/Chewy-1A-spot-the-bot-detecting-ai-generated-text) — Break Through Tech team project on detecting AI-generated text.
+
 ## Currently Working On
 
 - [Art Style Classifier](https://github.com/elizalamarr/art-style-classifier) — fine-tuned ConvNeXt-Tiny in PyTorch and reached 84.0% test accuracy across 10 WikiArt styles.
