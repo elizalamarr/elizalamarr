@@ -2,6 +2,8 @@
 
 I'm studying artificial intelligence at Rice University and pursuing machine learning roles. I'm interested in how to build useful models while protecting people's data.
 
+My art history minor inspired me to build a model that recognizes painting styles.
+
 ## Fall AI Studio
 
 [![Fall AI Studio: Spot the Bot](https://img.shields.io/badge/Fall_AI_Studio-Spot_the_Bot-0969da)](https://github.com/Break-Through-Tech/Chewy-1A-spot-the-bot-detecting-ai-generated-text)
