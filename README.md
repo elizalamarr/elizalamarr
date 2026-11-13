@@ -1,42 +1,10 @@
-# Hi, I'm Eliza 👋
+# Hi, I'm Eliza
 
-I'm a sophomore at Rice University, majoring in artificial intelligence with a minor in
-art history. I'm especially interested in the intersection of AI and cybersecurity, with a
-focus on how data privacy will be handled as the online world evolves.
+I'm studying artificial intelligence at Rice University and pursuing machine learning roles. I'm interested in how to build useful models while protecting people's data.
 
-- 🎓 Sophomore at Rice University
-- 💻 Technical interests: Machine Learning, Cloud Security, Data Privacy
-- 📫 Reach me: el110@rice.edu · [LinkedIn](https://www.linkedin.com/in/elizalamar/)
-- 🧗 Outside of tech: bouldering, running, music, and art history
+## Currently Working On
 
----
+- [Art Style Classifier](https://github.com/elizalamarr/art-style-classifier) — using PyTorch and ResNet-50 to classify WikiArt paintings by style.
+- [Differential Privacy Lab](https://github.com/elizalamarr/dp-learning-lab) — measuring how differential privacy affects classification accuracy.
 
-## 🛠️ Technical Skills
-- **Languages:** Python, Java, MATLAB, SQL
-- **Tools & Libraries:** PyTorch, Git, NumPy, scikit-learn
-
----
-
-## 🤝 Involved In
-- CSters at Rice
-- Women in CyberSecurity (WiCyS)
-- Break Through Tech
----
-
-## 🌱 Currently
-- 🤖 Learning ML by building a computer-vision classifier for painting styles
-- 🔐 Digging into cloud security and data privacy
-- 🧩 Working through LeetCode to prep for technical interviews
-- 
----
-
-## 📌 Featured Projects
-
-**Art Style Classifier** — classifies painting styles from the WikiArt collection using
-transfer learning (PyTorch / ResNet-50), with work on interpreting which visual cues drive
-each style. Brings together my AI and art-history interests. *(In progress.)*
-
-**LeetCode Solutions** — my ongoing interview-prep set
-analysis. *(https://github.com/elizalamarr/leetcode-solutions)*
-
----
+[LinkedIn](https://www.linkedin.com/in/elizalamar/) · [Email](mailto:el110@rice.edu)
